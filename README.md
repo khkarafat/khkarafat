@@ -5,7 +5,7 @@
 - 💡 I love solving design problems and exploring how technology can enhance user experience
 - 💬 Ask me about **UI/UX**, **Figma**, **HTML/CSS**, **Design Principles**, or anything related to **Frontend**
 - 📫 Reach me at: [khkarafat@gmail.com](mailto:khkarafat@gmail.com)
-- 🌐 Portfolio/Website: *Coming Soon*
+- 🌐 Website: [www.khkarafat.com](https://khkarafat.com)
 
 ---
 
